@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi everyone! I'm Sergey!
+
+Welcome to my ✨ _special_ ✨ repository.
 
 <!--
 **SSKubyshkin/SSKubyshkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
