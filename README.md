@@ -5,7 +5,7 @@
 
 A few things about me:
 - 🌱 Solving katas every day on [Codewars](www.codewars.com/r/mrgF-Q)
-- 📫 How to reach me: **kubyshkin@proton.me**
+- 📫 How to reach me: kubyshkin@proton.me
 - 💬 Ask me about: chess, Team Fortress 2, or anything I'm currently working on!
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: There's 80.658.175.170.943.878.571.660.636.856.403.766.975.289.505.440.883.277.824.000.000.000.000 ways you can shuffle the standard 52-card deck
