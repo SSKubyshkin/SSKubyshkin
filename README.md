@@ -4,7 +4,7 @@
 
 
 A few things about me:
-- 🌱 Solving katas every day on [Codewars](https://www.codewars.com/r/mrgF-Q)
+- 🌱 Solving katas every day on [Codewars](https://www.codewars.com/r/mrgF-Q) while working on personal projects
 - 📫 How to reach me: kubyshkin@proton.me
 - 💬 Ask me about: chess, Team Fortress 2, or anything I'm currently working on!
 - 😄 Pronouns: He/him
