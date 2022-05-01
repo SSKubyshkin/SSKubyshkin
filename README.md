@@ -8,7 +8,7 @@ A few things about me:
 - 📫 How to reach me: **kubyshkin@proton.me**
 - 💬 Ask me about: chess, Team Fortress 2, or anything I'm currently working on!
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: There's 80'658'175'170'943'878'571'660'636'856'403'766'975'289'505'440'883'277'824'000'000'000'000 ways you can shuffle the standard 52-card deck
+- ⚡ Fun fact: There's 80.658.175.170.943.878.571.660.636.856.403.766.975.289.505.440.883.277.824.000.000.000.000 ways you can shuffle the standard 52-card deck
 <!--
 **SSKubyshkin/SSKubyshkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
